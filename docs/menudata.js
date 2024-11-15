@@ -23,4 +23,40 @@
  @licend  The above is the entire license notice for the JavaScript code in this file
 */
 var menudata={children:[
-{text:"Титульная страница",url:"index.html"}]}
+{text:"Титульная страница",url:"index.html"},
+{text:"Описания",url:"pages.html"},
+{text:"Пространства имен",url:"namespaces.html",children:[
+{text:"Пространства имен",url:"namespaces.html"},
+{text:"Члены пространств имен",url:"namespacemembers.html",children:[
+{text:"Указатель",url:"namespacemembers.html",children:[
+{text:"o",url:"namespacemembers.html#index_o"}]},
+{text:"Перечисления",url:"namespacemembers_enum.html"},
+{text:"Элементы перечислений",url:"namespacemembers_eval.html",children:[
+{text:"o",url:"namespacemembers_eval.html#index_o"}]}]}]},
+{text:"Классы",url:"annotated.html",children:[
+{text:"Классы",url:"annotated.html"},
+{text:"Алфавитный указатель классов",url:"classes.html"},
+{text:"Члены классов",url:"functions.html",children:[
+{text:"Указатель",url:"functions.html"},
+{text:"Переменные",url:"functions_vars.html"}]}]},
+{text:"Файлы",url:"files.html",children:[
+{text:"Файлы",url:"files.html"},
+{text:"Список членов всех файлов",url:"globals.html",children:[
+{text:"Указатель",url:"globals.html",children:[
+{text:"c",url:"globals.html#index_c"},
+{text:"g",url:"globals.html#index_g"},
+{text:"m",url:"globals.html#index_m"},
+{text:"p",url:"globals.html#index_p"},
+{text:"r",url:"globals.html#index_r"},
+{text:"s",url:"globals.html#index_s"},
+{text:"t",url:"globals.html#index_t"},
+{text:"v",url:"globals.html#index_v"}]},
+{text:"Функции",url:"globals_func.html",children:[
+{text:"c",url:"globals_func.html#index_c"},
+{text:"g",url:"globals_func.html#index_g"},
+{text:"m",url:"globals_func.html#index_m"},
+{text:"p",url:"globals_func.html#index_p"},
+{text:"r",url:"globals_func.html#index_r"},
+{text:"s",url:"globals_func.html#index_s"},
+{text:"t",url:"globals_func.html#index_t"},
+{text:"v",url:"globals_func.html#index_v"}]}]}]}]}
